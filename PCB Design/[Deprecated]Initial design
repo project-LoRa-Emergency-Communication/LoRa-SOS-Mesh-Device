@@ -1,0 +1,20 @@
+Initial PCB design
+Time: 2023/03/03
+Using "Plugin" method
+
+Main MCU:
+ESP-WROOM-32
+
+Main communication chip:
+E22-900T30S
+
+Accessories:
+GPS
+OLED
+RTC
+Environmental detection : DHT22
+RGB
+BUZZER
+2 TACT SWITCH
+
+STATUS : Deprecated
